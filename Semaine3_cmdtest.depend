@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645119196 source:/home/margauxhanut/ProjectC/Semaine3_cmdtest/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
